@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProjectGuid>65845247-d4a3-43fd-86fd-0a9623cca8ab</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>waitforafile</RootNamespace>
+    <AssemblyName>waitforafile</AssemblyName>
+    <TargetFramework>net452</TargetFramework>
+  </PropertyGroup>
+</Project>
